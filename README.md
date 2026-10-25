@@ -45,8 +45,8 @@ Quando o feixe laser é interrompido pela passagem de um objeto, a luminosidade 
 
 ## Diagrama do Projeto
 
-![Diagrama](imagens/diagrama-projeto2.png)
+![Diagrama](DetectorDePassagemComLaserLDR.png)
 
 ## Projeto em Funcionamento
 
-![Funcionamento](imagens/projeto2.gif)
+![Funcionamento](detectoDePassagemVideo.mp4)
